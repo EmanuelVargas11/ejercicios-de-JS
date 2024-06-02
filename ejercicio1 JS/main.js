@@ -13,7 +13,7 @@ una alerta con su nombre completo (nombre y apellido concatenados) utilizando
 template strings 
 */
 
-alert("Hola Visitabte")
+alert("Hola Visitante")
 let ingresoNombre = prompt("¿cual es tu nombre?");
 let ingresoApellido = prompt("¿cual es tu apellido?");
 
